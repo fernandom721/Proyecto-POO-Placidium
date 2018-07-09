@@ -40,7 +40,7 @@ public class GestorPrincipal {
     private void iniciarJuego() {
         enFuncionamiento = true;
         inicializar();
-        //musica.repetir();
+        musica.repetir();
     }
 
     private void iniciarBuclePrincipal() {
